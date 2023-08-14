@@ -1,0 +1,6 @@
+venv
+.env
+audio_key.json
+key.json
+db.sqlite3
+
